@@ -1,0 +1,7 @@
+{
+    "data": [
+        { "name":"good1" , "price":"998" }, 
+        { "name":"good2" , "price":"999" }, 
+        { "name":"good3" , "price":"0" }
+    ]
+}
